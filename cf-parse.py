@@ -1,5 +1,5 @@
 # Built by Avijit Sen
-# Date: 2020-05-01  
+# Date: 2022-27-09 
 # License: MIT License
 # Description: This script parses the Cloudflare logs and generates a report
 
